@@ -1,0 +1,11 @@
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\bin\Debug\netcoreapp3.1\HataFırlatma.exe
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\bin\Debug\netcoreapp3.1\HataFırlatma.deps.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\bin\Debug\netcoreapp3.1\HataFırlatma.runtimeconfig.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\bin\Debug\netcoreapp3.1\HataFırlatma.runtimeconfig.dev.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\bin\Debug\netcoreapp3.1\HataFırlatma.dll
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\bin\Debug\netcoreapp3.1\HataFırlatma.pdb
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\obj\Debug\netcoreapp3.1\HataFırlatma.csprojAssemblyReference.cache
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\obj\Debug\netcoreapp3.1\HataFırlatma.AssemblyInfoInputs.cache
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\obj\Debug\netcoreapp3.1\HataFırlatma.AssemblyInfo.cs
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\obj\Debug\netcoreapp3.1\HataFırlatma.dll
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\HataFırlatma\obj\Debug\netcoreapp3.1\HataFırlatma.pdb

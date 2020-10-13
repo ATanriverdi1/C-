@@ -1,0 +1,11 @@
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\bin\Debug\netcoreapp3.1\SayıTahmin.exe
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\bin\Debug\netcoreapp3.1\SayıTahmin.deps.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\bin\Debug\netcoreapp3.1\SayıTahmin.runtimeconfig.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\bin\Debug\netcoreapp3.1\SayıTahmin.runtimeconfig.dev.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\bin\Debug\netcoreapp3.1\SayıTahmin.dll
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\bin\Debug\netcoreapp3.1\SayıTahmin.pdb
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\obj\Debug\netcoreapp3.1\SayıTahmin.csprojAssemblyReference.cache
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\obj\Debug\netcoreapp3.1\SayıTahmin.AssemblyInfoInputs.cache
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\obj\Debug\netcoreapp3.1\SayıTahmin.AssemblyInfo.cs
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\obj\Debug\netcoreapp3.1\SayıTahmin.dll
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\SayıTahmin\obj\Debug\netcoreapp3.1\SayıTahmin.pdb

@@ -1,0 +1,11 @@
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\bin\Debug\netcoreapp3.1\BankaMatik.exe
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\bin\Debug\netcoreapp3.1\BankaMatik.deps.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\bin\Debug\netcoreapp3.1\BankaMatik.runtimeconfig.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\bin\Debug\netcoreapp3.1\BankaMatik.runtimeconfig.dev.json
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\bin\Debug\netcoreapp3.1\BankaMatik.dll
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\bin\Debug\netcoreapp3.1\BankaMatik.pdb
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\obj\Debug\netcoreapp3.1\BankaMatik.csprojAssemblyReference.cache
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\obj\Debug\netcoreapp3.1\BankaMatik.AssemblyInfoInputs.cache
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\obj\Debug\netcoreapp3.1\BankaMatik.AssemblyInfo.cs
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\obj\Debug\netcoreapp3.1\BankaMatik.dll
+C:\Users\alhnt\OneDrive\Documents\MyOffice\Project\BankaMatik\obj\Debug\netcoreapp3.1\BankaMatik.pdb
